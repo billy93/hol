@@ -1,0 +1,80 @@
+If you want to continue transaction, please connect your BSC wallet 
+
+Hi, 
+What do you want to do?
+
+My order list
+My history order list
+Create Order
+Instant Order
+Cancel Order
+
+----------------------------
+My Order list
+Buy/Sell?
+
+Buy : B0123, B111
+Sell : S123, S345
+
+Your Order ID B01234 was placed at 12:00
+1 BNB = 1000 upBNB
+Status order "Placed"
+----------------------------
+
+My History order list
+Buy/Sell
+
+Here is your buy order id history:
+B0123
+B333
+
+Here is your sell order id history:
+S0123
+S333
+
+----------------------------
+Create Buy Order 
+How many BNB you want to spent?
+1 BNB
+How many upBNB you want to receive?
+1000 upBNB
+You want to buy 1000 upBNB with 1 BNB, are you sure?
+(user confirm to send 1 BNB to smart contract)
+Your order placed successfully
+Your order number is X0123
+
+----------------------------
+Create Sell Order 
+How many upBNB you want to spent?
+1000 upBNB
+How many BNB you want to receive?
+1 BNB
+You want to sell 1000 upBNB for 1 BNB, are you sure?
+(user confirm to send 1000 upBNB to smart contract)
+Your order placed successfully
+Your order number is X0123
+----------------------------
+
+Buy Instant 
+
+(list order book)
+1 BNB = 1000 upBNB
+0.51 BNB = 500 upBNB
+
+Please send 1 BNB 
+
+Transaction confirmed, you will receive 1000 upBNB
+Thank you
+----------------------------
+
+Sell Instant 
+
+(list order book)
+1000 upBNB = 1 BNB
+
+Are you sure, you want to sell 1000 upBNB for 1 BNB?
+User send 1000 upBNB to smart contract
+
+Transaction confirmed, you will receive 1 BNB
+Thank you
+-----------------------------

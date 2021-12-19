@@ -1,0 +1,19 @@
+upFund place
+
+People 1
+What information do you need?
+
+Choice
+All
+ROOT
+upBNB
+upTether
+upMatic
+upCake
+
+Please enter your choice
+
+Choice
+Fee
+Vault
+
